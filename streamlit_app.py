@@ -1,3 +1,3 @@
-import stremlit
+import streamlit
 
-stremlit.title(" first program running ")
+streamlit.title(" first program running ")
